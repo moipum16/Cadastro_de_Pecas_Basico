@@ -1,0 +1,1 @@
+Executar via terminal :)
